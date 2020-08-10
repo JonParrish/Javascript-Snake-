@@ -1,2 +1,2 @@
-# Python-Snake-
-The classic game "Snake" written in Python as a test, 
+# Javascript-Snake-
+The classic game "Snake" written in Javascript as a test, 
